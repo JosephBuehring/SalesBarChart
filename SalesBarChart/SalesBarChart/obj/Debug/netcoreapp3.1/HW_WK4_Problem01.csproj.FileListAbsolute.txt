@@ -1,0 +1,13 @@
+C:\Users\josep\source\repos\HW_WK4_Problem01\HW_WK4_Problem01\bin\Debug\netcoreapp3.1\HW_WK4_Problem01.exe
+C:\Users\josep\source\repos\HW_WK4_Problem01\HW_WK4_Problem01\bin\Debug\netcoreapp3.1\HW_WK4_Problem01.deps.json
+C:\Users\josep\source\repos\HW_WK4_Problem01\HW_WK4_Problem01\bin\Debug\netcoreapp3.1\HW_WK4_Problem01.runtimeconfig.json
+C:\Users\josep\source\repos\HW_WK4_Problem01\HW_WK4_Problem01\bin\Debug\netcoreapp3.1\HW_WK4_Problem01.runtimeconfig.dev.json
+C:\Users\josep\source\repos\HW_WK4_Problem01\HW_WK4_Problem01\bin\Debug\netcoreapp3.1\HW_WK4_Problem01.dll
+C:\Users\josep\source\repos\HW_WK4_Problem01\HW_WK4_Problem01\bin\Debug\netcoreapp3.1\HW_WK4_Problem01.pdb
+C:\Users\josep\source\repos\HW_WK4_Problem01\HW_WK4_Problem01\obj\Debug\netcoreapp3.1\HW_WK4_Problem01.AssemblyInfoInputs.cache
+C:\Users\josep\source\repos\HW_WK4_Problem01\HW_WK4_Problem01\obj\Debug\netcoreapp3.1\HW_WK4_Problem01.AssemblyInfo.cs
+C:\Users\josep\source\repos\HW_WK4_Problem01\HW_WK4_Problem01\obj\Debug\netcoreapp3.1\HW_WK4_Problem01.csproj.CoreCompileInputs.cache
+C:\Users\josep\source\repos\HW_WK4_Problem01\HW_WK4_Problem01\obj\Debug\netcoreapp3.1\HW_WK4_Problem01.dll
+C:\Users\josep\source\repos\HW_WK4_Problem01\HW_WK4_Problem01\obj\Debug\netcoreapp3.1\HW_WK4_Problem01.pdb
+C:\Users\josep\source\repos\HW_WK4_Problem01\HW_WK4_Problem01\obj\Debug\netcoreapp3.1\HW_WK4_Problem01.genruntimeconfig.cache
+C:\Users\josep\source\repos\HW_WK4_Problem01\HW_WK4_Problem01\obj\Debug\netcoreapp3.1\HW_WK4_Problem01.csprojAssemblyReference.cache
